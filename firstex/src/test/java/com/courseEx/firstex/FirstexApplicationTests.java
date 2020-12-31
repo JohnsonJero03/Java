@@ -1,10 +1,10 @@
-package com.firstspringboot.crudapi;
+package com.courseEx.firstex;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class CrudapiApplicationTests {
+class FirstexApplicationTests {
 
 	@Test
 	void contextLoads() {

@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Thu Dec 31 13:12:35 IST 2020:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance a816c00e-0176-b7bf-9592-00000675b4a0 
+on database directory memory:/home/johnsonjero/Downloads/Spring/firstex/13cc7a7a-3e99-4c06-915d-4a6d718eeab3 with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@277050dc 
+Loaded from file:/home/johnsonjero/.gradle/caches/modules-2/files-2.1/org.apache.derby/derby/10.14.2.0/7efad40ef52fbb1f08142f07a83b42d29e47d8ce/derby-10.14.2.0.jar
+java.vendor=JetBrains s.r.o.
+java.runtime.version=11.0.9.1+11-b1145.63
+user.dir=/home/johnsonjero/Downloads/Spring/firstex
+os.name=Linux
+os.arch=amd64
+os.version=5.0.0-38-generic
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
