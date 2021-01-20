@@ -1,0 +1,2 @@
+com/john/springbootsecurity/SecurityExampleApplicationTests.java
+ com.john.springbootsecurity.SecurityExampleApplicationTests
