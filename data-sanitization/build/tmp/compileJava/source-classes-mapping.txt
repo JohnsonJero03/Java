@@ -1,0 +1,28 @@
+com/john/springboot/DataSanitizationApplication.java
+ com.john.springboot.DataSanitizationApplication
+com/john/springboot/repository/addressRepo.java
+ com.john.springboot.repository.addressRepo
+com/john/springboot/repository/customerRepo.java
+ com.john.springboot.repository.customerRepo
+com/john/springboot/entity/address.java
+ com.john.springboot.entity.address
+com/john/springboot/repository/productRepo.java
+ com.john.springboot.repository.productRepo
+com/john/springboot/repository/orderRepo.java
+ com.john.springboot.repository.orderRepo
+com/john/springboot/controller/addresscontroller.java
+ com.john.springboot.controller.addresscontroller
+com/john/springboot/entity/items.java
+ com.john.springboot.entity.items
+com/john/springboot/dto/customerAddressDto.java
+ com.john.springboot.dto.customerAddressDto
+com/john/springboot/entity/placeorder.java
+ com.john.springboot.entity.placeorder
+com/john/springboot/dto/customerOrderDto.java
+ com.john.springboot.dto.customerOrderDto
+com/john/springboot/controller/orderController.java
+ com.john.springboot.controller.orderController
+com/john/springboot/entity/customer.java
+ com.john.springboot.entity.customer
+com/john/springboot/controller/customerController.java
+ com.john.springboot.controller.customerController
